@@ -1,4 +1,4 @@
-# Tetris en C++ — Programmation orientée objet
+# Tetris en C++ - Programmation orientée objet
 
 ## Présentation
 

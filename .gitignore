@@ -1,0 +1,12 @@
+# Fichiers générés par la compilation C++
+*.o
+*.obj
+*.exe
+*.out
+/build/
+/test
+
+# Fichiers temporaires des éditeurs
+.vscode/
+.idea/
+*~
